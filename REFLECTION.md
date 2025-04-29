@@ -1,0 +1,1 @@
+One thing that surprised me about what’s inside the .git folder was the way objects are stored as hashes. Seeing commits, blobs, and trees in their raw form helped me understand Git’s internal mechanics better.
